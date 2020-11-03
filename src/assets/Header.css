@@ -1,0 +1,30 @@
+
+h2 {
+    color:rgb(27, 38, 44);
+    text-align: center;
+}
+
+figcaption {
+    font-size: 16px;
+}
+
+#imageRow {
+    padding-left: 4%;
+    padding-right: 4%;
+}
+
+
+
+
+.sub-title {
+    color: #2a3137;
+    border-bottom: 2px solid #2a3137;
+}
+.form-title {
+
+    border-bottom: solid #054e43;
+}
+
+
+
+
