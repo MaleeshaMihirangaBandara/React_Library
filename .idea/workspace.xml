@@ -1,13 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a5cbb4a3-cf20-433d-887a-962c888e64cc" name="Default Changelist" comment="" />
+    <list default="true" id="a5cbb4a3-cf20-433d-887a-962c888e64cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/assets/fonts/feather/icon-font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/asset/stylesheets/theme/_theme.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ReadingArea.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/books/AddBook.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/books/Book.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/books/Books.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/books/BooksList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/books/CreateBook.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants/SelectStyles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/types/LibraryTypes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/feather/fonts/feather.eot" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/fonts/feather/fonts/feather.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/feather/fonts/feather.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/fonts/feather/fonts/feather.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/feather/fonts/feather.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/fonts/feather/fonts/feather.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/feather/fonts/feather.woff" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/fonts/feather/fonts/feather.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/feather/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/asset/stylesheets/pages/_welcome.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/asset/stylesheets/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/_readingArea.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/asset/stylesheets/pages/_reading-area.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/asset/images/banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Authors.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/authors/Authors.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Authors/AddAuthor.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/authors/AddAuthor.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Authors/Author.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/authors/Author.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Authors/AuthorList.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/authors/AuthorsList.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Authors/CreateAuthor.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/authors/CreateAuthor.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BooksAndAuthors.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Welcome.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Library.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Library.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/MyLibrary.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/MyLibrary.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="feature-01" />
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jlu7L9qrmDDOZ4kDZJblNg8YcT" />
@@ -18,10 +67,29 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+    <property name="ts.external.directory.path" value="C:\Users\Acer\Desktop\react_lbrary\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Desktop\react_lbrary\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Desktop\react_lbrary\public\assets" />
+      <recent name="C:\Users\Acer\Desktop\react_lbrary\src\asset\stylesheets" />
+      <recent name="C:\Users\Acer\Desktop\react_lbrary\src\components\Authors" />
+      <recent name="C:\Users\Acer\Desktop\react_lbrary\src\assets\stylesheets\pages" />
+      <recent name="C:\Users\Acer\Desktop\react_lbrary\src\assets\stylesheets" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -49,33 +117,59 @@
       <option name="presentableId" value="Default" />
       <updated>1604390830534</updated>
       <workItem from="1604390831591" duration="873000" />
-      <workItem from="1604392659065" duration="389000" />
+      <workItem from="1604392659065" duration="1225000" />
+      <workItem from="1604535432034" duration="251000" />
+      <workItem from="1604988370407" duration="5410000" />
     </task>
+    <task id="LOCAL-00001" summary="Author section">
+      <created>1604393298431</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604393298431</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Author section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Author section" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1604391423718">
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1604393297262">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604391423718" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1604391423718">
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1604393297262" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604535683969">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604391423718" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1604391423718">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604535683969" />
+    <state width="745" height="208" key="GridCell.Tab.0.bottom" timestamp="1604995036696">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604391423718" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1604391423718">
+    <state width="745" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604995036696" />
+    <state width="745" height="208" key="GridCell.Tab.0.center" timestamp="1604995036696">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604391423718" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604393186439">
+    <state width="745" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604995036696" />
+    <state width="745" height="208" key="GridCell.Tab.0.left" timestamp="1604995036696">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1604393186439" />
+    <state width="745" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604995036696" />
+    <state width="745" height="208" key="GridCell.Tab.0.right" timestamp="1604995036696">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="745" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604995036696" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604393304731">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1604393304731" />
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604535599287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1604535599287" />
   </component>
 </project>

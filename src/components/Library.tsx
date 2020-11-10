@@ -1,23 +1,16 @@
-import React from "react";
-import Header from "./Header";
-import BooksAndAuthors from "./BooksAndAuthors";
+import React from 'react';
+import Welcome from "./Welcome";
+import Authors from "./authors/Authors";
+import ReadingArea from "./ReadingArea";
 
+const Library: React.FC = () => {
+    return (
+        <React.Fragment>
+            <Welcome/>
+            <ReadingArea/>
+        </React.Fragment>
 
-
-const Library: React.FC = () =>{
-  return(
-    <React.Fragment>
-        {/*<Authors/>*/}
-        <BooksAndAuthors/>
-        <Header/>
-
-    </React.Fragment>
-
-
-
-  );
-
-
-
+    );
 };
+
 export default Library;

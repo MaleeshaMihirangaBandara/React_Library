@@ -1,15 +1,10 @@
 import React from 'react';
-import Header from '../components/Header';
-import BooksAndAuthors from '../components/BooksAndAuthors';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import Library from "../components/Library";
 
-const MyLibrary = () => {
+const ClientApp: React.FC = () => {
     return (
-        <div className='container-fluid'>
-            <Header />
-            <BooksAndAuthors />
-        </div>
+        <Library/>
     );
-}
+};
 
-export default MyLibrary;
+export default ClientApp;
